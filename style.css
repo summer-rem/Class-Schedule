@@ -1,0 +1,41 @@
+body {
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+}
+
+header {
+  line-height: 5px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 12px;
+}
+
+#name {
+  color: red;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+th, td {
+  width: 130px;
+  height: 30px;
+}
+
+#student-information {
+  width: 1058px;
+  height: 20px;
+  margin: 5px;
+}
